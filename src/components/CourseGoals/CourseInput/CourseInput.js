@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import './CourseInput.css';
+import './courseInput.css';
 
 const CourseInput = props=>{
     const [enteredValue,setEnteredValue]=useState('');
